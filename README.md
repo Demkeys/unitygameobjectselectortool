@@ -1,6 +1,6 @@
 -----------------------------------------------------
 Unity GameobjectSelector Tool
------------------------------------------------------
+
 Make sure to place this script in the Editor folder. To open the window click 'MyTools/GameobjectSelector'.
 This window lets you assign a gameobject to the ObjectToSelect field. Once a gameobject is assigned, if the gameobject
 has any child gameobjects, four buttons will show up, giving you the following options. 
