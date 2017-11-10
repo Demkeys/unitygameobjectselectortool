@@ -11,4 +11,3 @@ has any child gameobjects, four buttons will show up, giving you the following o
 This is useful in situations where there are many child gameobjects and you don't wanna have to scroll through the hierarchy
 every time you wanna select the first, last or all child gameobject.
 Hope this helps.
------------------------------------------------------
